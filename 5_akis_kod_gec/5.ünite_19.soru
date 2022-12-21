@@ -1,0 +1,28 @@
+►İsimlendirmeler
+
+►Sınıf, fonksiyon veya bir değişken  isimlendirirken öncelikle Türkçe karakter kullanmamaya dikkat edilmeli.
+ 
+►İsimler ne çok uzun ne çok kısa olmalı ve en önemlisi kullanılacak işin tanımına uygun olmalı.
+ 
+►Döngü değişkenleri dışında tek harfli  (i,j,k,l) değişken isimleri kullanılmamalı.
+ 
+►Yorum Satırları
+
+►Açık ve anlaşılır yorumlar her ne kadar yazılım anında gereksizmiş gibi görünse de,  kodların okunmasını ve üzerinde değişiklik yapılmasını kolaylaştırır.
+ 
+►Sınıf, fonksiyon veya bir değişken hatta bir döngü için bile üşenmeden kaba taslak ne işe yaradığına dair açıklamalar yapmak programın yazılımcısı için de, sonrasında programı inceleyecek kişiler için de avantaj sağlayacaktır.
+
+ 
+►Girintiler ve Boşluklar
+
+►Biçimli ve güzel görünümlü kodları okumak ve üzerinde değişiklikler yapmak her zaman daha kolay olacaktır. Bunu göz önünde bulundurarak kodlarımızı karmaşıklıktan uzak bir şekilde inşa edilmeli.
+
+►Sade görünümlü kodlar için ilk adım olarak kod bloğunun açılan parantezinin kapandığı yere dikkat etmek edilmeli. İç içe geçmiş kod bloklarında parantezlerin yeri en büyük yardımcınız olacaktır.
+
+►İç içe geçmiş kod bloklarını yazarken içteki bloğun her daim bir tab’lık alan sağda olması kodların biçimli durmasını sağlayacak ve okunmasını kolaylaştıracaktır.
+ 
+►Kodların Sınıflara ve Fonksiyonlara Bölünmesi 
+
+►Büyük bir proje geliştiriyorsanız aynı işi yapan kod bloklarını tekrar tekrar kullanmanız gerekecektir. Bu kod bloklarını sınıflara ya da fonksiyonlara bölmeniz gereksiz kod yazımını engelleyecek ve  projeyi daha anlaşılır hale getirecektir.  
+ 
+►Fonksiyon veya methodları yazarken olabilecek en yalın ve kısa algoritmaları kullanmak projenin ilerlemesini kolaylaştıracak ve sizi hızlandıracaktır. 
